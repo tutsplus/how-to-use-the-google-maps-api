@@ -1,4 +1,4 @@
-# [How to Use the Google Map API][published url]
+# [How to Use the Google Maps API][published url]
 ## Instructor: [Reginald Dawson][instructor url]
 
 
@@ -13,9 +13,9 @@ This repo contains the small projects that we build in the course.
 
 ------
 
-These are source files for the Envato Tuts+ course: [How to Use the Google Map API][published url]
+These are source files for the Envato Tuts+ course: [How to Use the Google Maps API][published url]
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses/how-to-use-the-google-map-api
+[published url]: https://code.tutsplus.com/courses/how-to-use-the-google-maps-api
 [instructor url]: https://tutsplus.com/authors/reginald-dawson
